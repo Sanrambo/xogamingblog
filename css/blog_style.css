@@ -212,36 +212,8 @@
 
     .container{
 
-        grid-template-rows: 20em 400em 10px;
+        grid-template-rows: 20em 220em 10px;
         grid-gap:.5%;
-    
-    
-    }
-    
-
-    
-    
-    
-    .main{
-    
-        justify-content: center;
-        grid-gap: 0%;
-        grid-template-columns: 100% ;
-        grid-template-rows: 1%;
-        grid-template-areas: 
-        "lt"
-        "b1"
-        "b2"
-        "b3"
-        "b4"
-        "b5"
-        "b6"
-        "bt"
-        "fr"
-        "p1"
-        "p2"
-        "p3"
-        "sub";
     
     
     }
@@ -335,6 +307,38 @@
 
 }
 
+.main_title{
+
+    font-size:1em;
+}
+
+.article{
+
+    font-size:1em;
+}
+
+.article2{
+
+    font-size: 1em;
+}
+
+.next_article{
+
+   
+    margin: 0% 20%;
+    font-size:1em;
+
+}
 
 
+}
+
+@media screen and (max-width: 600px){
+
+
+
+
+
+
+    
 }
