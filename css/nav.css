@@ -1,0 +1,51 @@
+
+
+.nav{
+
+    font-family: 'Fredoka One', serif;
+    grid-area: hd;
+    background-color: black;
+    color:white;
+    text-align: center;
+    
+
+
+
+}
+
+.nav_element{
+
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding-left: 20em;
+    
+}
+
+.nav_element a{
+
+    
+    color: white;
+    font-size: 20px;
+
+
+}
+
+.nav_element a:hover{
+
+    color:#f45c43;
+
+}
+
+.logo{
+
+   
+    width:21%;
+    position: absolute;
+    top: -6.8%;
+    left: 6.75%;
+    
+
+}
+

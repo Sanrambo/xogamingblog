@@ -1,0 +1,47 @@
+.subscribe_h1{
+
+  
+  
+    text-align: center;
+    font-weight: 100;
+    font-size: 2em;
+    color: black;
+    margin-bottom: 18%;
+  }
+  .subscribe {
+      justify-content: center;
+      grid-area: sub;
+      width: 500px;
+      margin: 0 auto;
+    }
+    
+    .formStyle { 
+      background-color:white;
+      padding: 10%; 
+      width: 80%; 
+      margin-bottom: 20px; 
+      border-bottom-width: 1px; 
+      border-bottom-style: solid; 
+      border-bottom-color: #6dd5ed; 
+      border-top-style: none; 
+      border-right-style: none; 
+      border-left-style: none; 
+      font-size: 1em;
+      font-weight: 100;
+      color: #6dd5ed;
+    }
+    
+    
+    
+    input:focus {
+      outline: none;
+    }
+    
+    ::-webkit-input-placeholder {
+       color: #6dd5ed;
+    }
+    
+    :-ms-input-placeholder {  
+       color: #6dd5ed;  
+    }
+   
